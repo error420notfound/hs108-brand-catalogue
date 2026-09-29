@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="title">
+  <title id="title">Reversed Vesper Tea wordmark</title>
+  <rect width="900" height="300" fill="#054A31"/>
+  <g fill="none" stroke="#FFF8F0" stroke-width="15" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M66 72 133 225 200 72 M89 122 Q134 81 176 123 Q137 149 89 122Z"/>
+    <path d="M237 129 275 218 313 129"/>
+    <path d="M343 177H416 C416 139 385 122 358 145 C329 169 337 216 373 221 C392 224 406 216 419 204"/>
+    <path d="M494 145 C471 126 443 134 440 155 C436 179 497 172 497 197 C497 223 461 229 437 208"/>
+    <path d="M530 134V258 M530 158 C551 126 598 129 610 166 C622 208 586 234 550 213 C540 207 534 200 530 192"/>
+    <path d="M644 177H717 C717 139 686 122 659 145 C630 169 638 216 674 221 C693 224 707 216 720 204"/>
+    <path d="M753 134V219 M753 168 C765 143 780 132 815 136"/>
+  </g>
+</svg>

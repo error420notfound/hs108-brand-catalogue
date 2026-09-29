@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title">
+  <title id="title">Landscape and portrait layout composition</title>
+  <rect width="900" height="600" fill="#FFF8F0"/>
+  <text x="48" y="58" fill="#1A1A1A" font-family="Arial,sans-serif" font-size="25">Landscape: information rail + image</text>
+  <rect x="48" y="92" width="490" height="310" fill="#FAFAFA" stroke="#054A31" stroke-width="3"/>
+  <rect x="48" y="92" width="120" height="310" fill="#054A31"/>
+  <rect x="186" y="110" width="333" height="273" fill="#CFF5E6"/>
+  <text x="605" y="58" fill="#1A1A1A" font-family="Arial,sans-serif" font-size="25">Portrait: header + image</text>
+  <rect x="632" y="92" width="220" height="440" fill="#FAFAFA" stroke="#054A31" stroke-width="3"/>
+  <rect x="632" y="92" width="220" height="84" fill="#054A31"/>
+  <rect x="650" y="195" width="184" height="276" fill="#CFF5E6"/>
+  <text x="48" y="512" fill="#444444" font-family="Arial,sans-serif" font-size="22">Text comes before media in reading order at both widths.</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title">
+  <title id="title">Three incorrect Vesper Tea logo uses</title>
+  <rect width="900" height="600" fill="#FFF8F0"/>
+  <g fill="#1A1A1A" font-family="Arial,sans-serif" font-size="22" text-anchor="middle">
+    <rect x="50" y="90" width="250" height="360" fill="#FAFAFA" stroke="#D1D1D1"/><text x="175" y="270" font-family="Georgia,serif" font-size="62" textLength="215" lengthAdjust="spacingAndGlyphs">vesper</text><text x="175" y="500">Do not stretch</text>
+    <rect x="325" y="90" width="250" height="360" fill="#FAFAFA" stroke="#D1D1D1"/><text x="450" y="270" font-family="Georgia,serif" font-size="55" transform="rotate(-17 450 270)">vesper</text><text x="450" y="500">Do not rotate</text>
+    <rect x="600" y="90" width="250" height="360" fill="#FAFAFA" stroke="#D1D1D1"/><text x="730" y="275" font-family="Georgia,serif" font-size="55" fill="#888888">vesper</text><text x="725" y="260" font-family="Georgia,serif" font-size="55">vesper</text><text x="725" y="500">Do not add effects</text>
+  </g>
+</svg>

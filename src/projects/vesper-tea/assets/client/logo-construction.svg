@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title">
+  <title id="title">Vesper Tea logo clearance diagram</title>
+  <rect width="900" height="600" fill="#FFF8F0"/>
+  <rect x="82" y="130" width="736" height="300" fill="none" stroke="#E55300" stroke-width="3" stroke-dasharray="12 8"/>
+  <rect x="158" y="205" width="584" height="150" fill="none" stroke="#054A31" stroke-width="2"/>
+  <text x="178" y="312" fill="#054A31" font-family="Georgia,serif" font-size="116">vesper</text>
+  <path d="M82 465H158M82 455V475M158 455V475" stroke="#E55300" stroke-width="3"/>
+  <text x="82" y="518" fill="#1A1A1A" font-family="Arial,sans-serif" font-size="22">Clear space = one symbol height on every side</text>
+  <text x="82" y="562" fill="#444444" font-family="Arial,sans-serif" font-size="19">Concept specification; verify final size on each production medium.</text>
+</svg>

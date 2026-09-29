@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="title">
+  <title id="title">Interval line with central leaf</title>
+  <rect width="900" height="300" fill="#FFF8F0"/>
+  <path d="M50 150H382 Q450 84 518 150H850 M382 150 Q450 216 518 150" fill="none" stroke="#054A31" stroke-width="7" stroke-linecap="round"/>
+</svg>

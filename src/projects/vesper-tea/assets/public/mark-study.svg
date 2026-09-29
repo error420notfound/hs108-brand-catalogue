@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title">
+  <title id="title">Three stages of the Vesper mark study</title>
+  <rect width="900" height="600" fill="#FFF8F0"/>
+  <g stroke="#054A31" fill="none" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M72 275H266"/>
+    <path d="M344 275Q437 165 530 275Q437 350 344 275Z"/>
+    <path d="M638 165 735 380 832 165 M671 250Q735 170 799 250Q740 297 671 250Z"/>
+  </g>
+  <g fill="#1A1A1A" font-family="Arial,sans-serif" font-size="25" text-anchor="middle"><text x="169" y="485">01 / line</text><text x="437" y="485">02 / leaf</text><text x="735" y="485">03 / symbol</text></g>
+</svg>

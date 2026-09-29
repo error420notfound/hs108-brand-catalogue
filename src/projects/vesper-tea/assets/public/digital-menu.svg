@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" role="img" aria-labelledby="title">
+  <title id="title">Fictional Vesper Tea mobile menu concept</title>
+  <rect width="600" height="800" fill="#FFF8F0"/>
+  <text x="42" y="78" fill="#054A31" font-family="Georgia,serif" font-size="60">vesper</text>
+  <path d="M42 106H558" stroke="#054A31" stroke-width="4"/>
+  <text x="42" y="172" fill="#1A1A1A" font-family="Arial,sans-serif" font-size="22">A MOMENT TO CHOOSE</text>
+  <g fill="#054A31" font-family="Georgia,serif" font-size="46"><text x="42" y="270">First Light</text><text x="42" y="420">Still Noon</text><text x="42" y="570">After Rain</text></g>
+  <g fill="#444444" font-family="Arial,sans-serif" font-size="21"><text x="42" y="312">Bright, gentle, unhurried.</text><text x="42" y="462">A warmer middle hour.</text><text x="42" y="612">A softer close to the day.</text></g>
+  <path d="M42 343H558M42 493H558M42 643H558" stroke="#054A31" stroke-width="2"/>
+  <rect x="42" y="687" width="516" height="70" rx="5" fill="#054A31"/>
+  <text x="300" y="733" fill="#FFF8F0" font-family="Arial,sans-serif" font-size="26" text-anchor="middle">Explore the blends</text>
+</svg>

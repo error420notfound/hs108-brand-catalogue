@@ -1,0 +1,14 @@
+{
+  "projectId": "vesper-tea-sample",
+  "version": "0.1.0",
+  "chromaRevision": "22b9004f8042737a484c909ba7fe678b0a7e8f27",
+  "colors": {
+    "leaf": { "catalogueId": "scale-prana-verde", "step": 900 },
+    "freshLeaf": { "catalogueId": "scale-prana-verde", "step": 500 },
+    "paper": { "catalogueId": "scale-agni-ember", "referenceColorId": "ember-ivory" },
+    "warmth": { "catalogueId": "scale-agni-ember", "step": 700 },
+    "ink": { "catalogueId": "scale-neutral-set", "step": 900 }
+  },
+  "fonts": { "display": "Fraunces", "body": "DM Sans" },
+  "note": "Resolve color values from the pinned Chroma revision. CMYK requires an approved print profile and proof."
+}

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title">
+  <title id="title">Fraunces and DM Sans typography sample</title>
+  <rect width="900" height="600" fill="#FFF8F0"/>
+  <path d="M56 75H844M56 510H844" stroke="#054A31" stroke-width="4"/>
+  <text x="56" y="178" fill="#054A31" font-family="Georgia,serif" font-size="78">A slower kind</text>
+  <text x="56" y="278" fill="#054A31" font-family="Georgia,serif" font-size="78">of pause.</text>
+  <text x="56" y="380" fill="#1A1A1A" font-family="Arial,sans-serif" font-size="28">Steep. Pause. Notice.</text>
+  <text x="56" y="435" fill="#444444" font-family="Arial,sans-serif" font-size="21">Display: Fraunces · Body: DM Sans</text>
+  <text x="56" y="555" fill="#444444" font-family="Arial,sans-serif" font-size="18">Vector specimen uses local fallbacks; renderer loads the licensed project fonts.</text>
+</svg>

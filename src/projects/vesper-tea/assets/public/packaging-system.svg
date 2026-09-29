@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600" role="img" aria-labelledby="title">
+  <title id="title">Three fictional Vesper Tea blend sleeves</title>
+  <rect width="900" height="600" fill="#FFF8F0"/>
+  <g font-family="Arial,sans-serif" fill="#1A1A1A" text-anchor="middle">
+    <g><rect x="65" y="75" width="235" height="455" fill="#FAFAFA" stroke="#054A31" stroke-width="3"/><path d="M65 265H300" stroke="#054A31" stroke-width="13"/><text x="183" y="137" font-size="23">VESPER TEA</text><text x="183" y="340" font-family="Georgia,serif" font-size="42">First Light</text><text x="183" y="470" font-size="18">FICTIONAL BLEND</text></g>
+    <g><rect x="333" y="75" width="235" height="455" fill="#FAFAFA" stroke="#054A31" stroke-width="3"/><path d="M333 265H568" stroke="#E55300" stroke-width="13"/><text x="451" y="137" font-size="23">VESPER TEA</text><text x="451" y="340" font-family="Georgia,serif" font-size="42">Still Noon</text><text x="451" y="470" font-size="18">FICTIONAL BLEND</text></g>
+    <g><rect x="601" y="75" width="235" height="455" fill="#FAFAFA" stroke="#054A31" stroke-width="3"/><path d="M601 265H836" stroke="#14B87A" stroke-width="13"/><text x="719" y="137" font-size="23">VESPER TEA</text><text x="719" y="340" font-family="Georgia,serif" font-size="42">After Rain</text><text x="719" y="470" font-size="18">FICTIONAL BLEND</text></g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+{
+  "repository": "https://github.com/error420notfound/chroma-catalogue",
+  "revision": "22b9004f8042737a484c909ba7fe678b0a7e8f27",
+  "schemaPath": "src/schemas/catalogue.schema.json",
+  "entries": [
+    { "id": "scale-prana-verde", "path": "data/scales/prana-verde.json", "steps": [50, 100, 200, 300, 400, 500, 600, 700, 800, 900, 950], "referenceColorIds": [] },
+    { "id": "scale-agni-ember", "path": "data/scales/agni-ember.json", "steps": [50, 100, 200, 300, 400, 500, 600, 700, 800, 900, 950], "referenceColorIds": ["ember-ivory", "ember-ink"] },
+    { "id": "scale-neutral-set", "path": "data/scales/neutral-set.json", "steps": [50, 100, 200, 300, 400, 500, 600, 700, 800, 900, 950], "referenceColorIds": ["text-on-light", "text-on-dark", "text-on-hue", "hue-on-dark", "native-black", "native-white"] }
+  ]
+}
