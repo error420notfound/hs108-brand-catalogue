@@ -11,7 +11,7 @@ export const project: Project = {
   id: 'vesper-tea-sample', slug: 'vesper-tea',
   metadata: {
     name: 'Vesper Tea', category: 'Independent tea house · fictional sample',
-    proposition: 'A daily pause, made tangible.',
+    proposition: 'A daily ritual, made easy to choose.',
     fictionalNotice: 'Vesper Tea is a fictional HS108 sample project. No client engagement, delivered work or measured result is claimed.',
     version: '0.1.0'
   },
