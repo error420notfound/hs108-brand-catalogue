@@ -11,7 +11,7 @@ const slots: [string, Template, Layout, string][] = [
   ['identity-overview', 'identity-system', 'double-gallery', 'overview'],
   ['color-type', 'palette-type', 'split-field', 'snapshot'],
   ['hero-application', 'application', 'full-field', 'hero-app'],
-  ['contrast-application', 'comparison', 'pure-comparison', 'contrast-app'],
+  ['contrast-application', 'comparison', 'split-field', 'contrast-app'],
   ['system-application', 'application', 'triple-gallery', 'system-app'],
   ['detail-application', 'detail', 'framed-image', 'detail-app'],
   ['environment-application', 'environment', 'header-field', 'environment-app'],
